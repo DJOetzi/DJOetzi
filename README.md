@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Max, but mostly known on the Internet as Progame03 or DJ::Ötzi
+I'm doing all kind of stuff with C-Family languages and Game Engines
+I also recently started working on Discord-Bots and made some cool stuff
+That's quite everything for now!
+
+Have fun
+DJ
 
 <!--
 **Progame03/Progame03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
