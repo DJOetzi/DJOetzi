@@ -8,7 +8,7 @@ Have fun
 DJ
 
 ### Drip stuff I use
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Progame03&theme=hacker" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Progame03&theme=hacker" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Progame03"/>
 
 
