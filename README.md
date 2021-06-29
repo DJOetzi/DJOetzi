@@ -11,6 +11,8 @@ DJ
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Progame03&theme=hacker"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Progame03"/>
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Progame03" frameborder="0"></iframe>
+
 
 <!--
 **Progame03/Progame03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
