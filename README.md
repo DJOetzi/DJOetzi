@@ -8,7 +8,7 @@ Have fun
 DJ
 
 ### Drip stuff I use
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Progame03" frameborder="0"></iframe>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Progame03" frameborder="0"/>
 <!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Progame03&theme=hacker"/>-->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Progame03"/>
 
