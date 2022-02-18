@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Max, but mostly known on the Internet as Progame03 or DJ::Ötzi
-I'm doing all kind of stuff with C-Family languages and Game Engines
-I also recently started working on Discord-Bots and made some cool stuff
+I'm Max, but mostly known on the Internet as DJ::Ötzi or Progame03
+I'm doing all kind of stuff with C-Family languages, the Discord API and Game Engines
+I do cool stuff.
 That's quite everything for now!
 
 Have fun
