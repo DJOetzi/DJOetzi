@@ -1,11 +1,8 @@
 ### Hi there 👋
-I'm Max, but mostly known on the Internet as DJ::Ötzi or Progame03
-I'm doing all kind of stuff with C-Family languages, the Discord API and Game Engines
 I do cool stuff.
 That's quite everything for now!
 
 Have fun
-DJ
 
 ### Drip stuff I use
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJOetzi&theme=hacker"/>
