@@ -1,10 +1,7 @@
 ### Hi there 👋
 I do cool stuff.
-That's quite everything for now!
 
-Have fun
-
-### Drip stuff I use
+### Wicked stuff I use
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJOetzi&theme=hacker"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DJOetzi"/>
 
